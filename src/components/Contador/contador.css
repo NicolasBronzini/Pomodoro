@@ -1,0 +1,58 @@
+.timer-central {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f7f7f7;
+}
+
+.timer-display {
+    font-size: 5rem;
+    margin-bottom: 2rem;
+}
+
+.alarm-message {
+    font-size: 3rem;
+    color: rgb(212, 23, 23);
+}
+
+.timer-inputs {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+.timer-inputs div {
+    margin: 20px 0px;
+}
+
+.timer-inputs input {
+    font-size: 2rem;
+    padding: 0.5rem;
+    width: 6rem;
+    text-align: center;
+}
+
+.timer-inputs span {
+    font-size: 2rem;
+    margin: 0 1rem;
+}
+
+.timer-buttons button {
+    font-size: 2rem;
+    padding: 1rem 2rem;
+    margin: 0 1rem;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
+
+.timer-buttons button:hover {
+    background-color: #3e8e41;
+}

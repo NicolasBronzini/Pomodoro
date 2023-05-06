@@ -1,0 +1,15 @@
+Pomodoro
+
+Base de datos User Login
+User
+-Mail
+-name
+_pasworrd
+
+
+-puntos por fondos
+-Fondos ambientados
+
+
+IDeas herramientas
+Pomodoro, Todo List,  poner meta y pasos: LINE to progress
